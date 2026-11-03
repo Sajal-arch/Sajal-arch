@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Neon%20Blue%20Data%20Scientist%20Portfolio%20Banner.png" width="100%" alt="Sajal Naik Data Scientist Banner">
+</p>
+
 # Hi, I'm Sajal Naik! 👋
 
 ### 💻 Aspiring Data Scientist | Machine Learning Enthusiast
