@@ -78,3 +78,17 @@ I enjoy learning new technologies, building machine learning projects, and devel
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajal-arch&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajal-arch&layout=compact&theme=tokyonight)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sajal-arch&color=blue)
+
